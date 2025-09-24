@@ -1,0 +1,14 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# IDE configuration folders
+.vscode/
+.idea/
+
+# Agent's output directory
+runs/
